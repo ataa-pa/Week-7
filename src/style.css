@@ -14,10 +14,9 @@ ul {
   padding: 0;
   list-style: none;
 }
-li {
+li::first-letter {
   text-transform: capitalize;
 }
-
 .weather-app-wrap {
   max-width: 800px;
   margin: 30px auto;
