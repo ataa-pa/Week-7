@@ -95,3 +95,5 @@ fahrenheitLink.addEventListener("click", convertFahrenheit);
 
 let celsiusLink = document.querySelector("#celsius");
 celsiusLink.addEventListener("click", convertCelsius);
+
+search("Tokyo");
