@@ -50,6 +50,9 @@ li::first-letter {
 .current-weather {
   text-align: center;
 }
+.current-weather .active {
+  cursor: default;
+}
 .weather-specifics {
   margin: 45px 0 0;
   position: relative;
